@@ -1,2 +1,3 @@
 # analIT
- "We did it. We're not brainless anymore."
+ "We did it. We're not brainless anymore!" - just wait for it
+ Resources for Udacity Analytics
